@@ -30,7 +30,7 @@
     height: 80px;
     width: 100%;
     margin-right: 10px;
-   
+    border-radius:40px;
     }
     /* Titre ODC DEV */
     header h1 {
